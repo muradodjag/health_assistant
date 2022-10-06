@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602514982466",
+    "project_id": "ai-assistant-38860",
+    "storage_bucket": "ai-assistant-38860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602514982466:android:afaa37fda2b3dd059c0fdb",
+        "android_client_info": {
+          "package_name": "com.example.expert_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602514982466-17cpmu8jaa1fc23oq7i94qmvfkiq25l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVJx0FSfOBR8Oya51hkAGGfRFS3cu8bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602514982466-17cpmu8jaa1fc23oq7i94qmvfkiq25l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
