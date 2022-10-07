@@ -1,4 +1,4 @@
-# expert_system
+# health assistant
 
 A new Flutter project.
 
